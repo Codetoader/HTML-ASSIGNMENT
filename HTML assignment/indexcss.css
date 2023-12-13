@@ -1,0 +1,52 @@
+.background {
+	background-image: url('images/bg3.jpg');
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 350px;
+    font-family:sans-serif;
+	
+}
+
+.padding {
+	background-color: ;
+	height: 50px;
+	width: 1350px;
+	
+}
+
+
+
+		
+#head {
+	border-width:1px;
+	border-style: solid;
+}
+
+#head button{
+	border-radius: 15px;
+	color:white;
+	background-color: red;
+	border-width: 0px;
+	height:23px; width:150px;
+	font-family:cascadia code;
+}
+
+.button2 button{
+	border-radius: 15px;
+	color:white;
+	background-color: blue;
+	margin-right:450px;
+	border-width: 0px;
+	height:28px; width:150px;
+	font-family:cascadia code;
+}
+
+.all button{
+	border-radius: 15px;
+	color:blue;
+	background-color: white;
+	height:28px; width:90px;
+	font-family:cascadia code;
+	
+}
